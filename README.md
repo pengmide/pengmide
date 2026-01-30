@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pengmide
-- 👀 I’m interested in bigdata and streaming computaion
-- 🌱 I’m currently learning flink
+- 👀 I’m interested in bigdata and ai
+- 🌱 I’m currently learning ai
 - 💞️ I’m looking to collaborate on GuangZhou
 - 📫 reach me
 
